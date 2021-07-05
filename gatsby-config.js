@@ -32,7 +32,7 @@ module.exports = {
         // the only required plugin option for WordPress is the GraphQL url.
         url:
           process.env.WPGRAPHQL_URL ||
-          `https://www.momi-arare.com/wp01/graphql`,
+          `https://t-e.oops.jp/wp01/graphql`,
       },
     },
 
